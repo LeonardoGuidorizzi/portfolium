@@ -1,0 +1,36 @@
+#div-menu{
+    display: flex;
+    justify-content: space-between;
+   width: 100%;
+    font-family: 'Press Start 2P', cursive;
+    position: fixed;
+    background-color: black;
+}
+
+.pure-menu-list{
+    display: flex;
+    font-size: smaller;
+}
+
+#short-menu{
+    opacity: 100;
+}
+
+#short-menu{
+    opacity: 100;
+}
+
+.pure-menu-item{
+    display: flex;
+    margin-left: 98px;
+    font-size: 1.5rem;
+}
+
+.pure-menu-link{
+    color: white;
+    margin-right: 20px;
+    font-size: smaller;
+}
+
+
+
