@@ -22,7 +22,8 @@
 
 .pure-menu-item{
     display: flex;
-    margin-left: 98px;
+    margin-left: 150px;
+    width: 250px;
     font-size: 1.5rem;
 }
 

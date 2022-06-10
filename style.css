@@ -52,7 +52,7 @@ html{
   scroll-behavior: smooth;
 }
 section{
-  min-height: 60vh;
+  min-height: 40vh;
 }
 /*
  * -- BANNER --
@@ -228,6 +228,11 @@ section{
   background-size: cover;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://24.media.tumblr.com/ccb268832580ac12951828a1c179de69/tumblr_mo2xbk8JUK1st5lhmo1_1280.jpg', sizingMethod='scale');
 }
+
+.teste{
+  border-radius: 40%;
+}
+
 .apresentation{
     display: flex;
     text-align: center;
@@ -249,6 +254,7 @@ ul{
 }
 li{
   border-radius: 10px;
+  width: 400px;
   border-style: groove;
   border-color: #5D26C1;
 }
@@ -290,4 +296,9 @@ img{
   .banner-head {
     font-size: 3em;
   }
+  {
+    
+  }
+
+  
 }
